@@ -1,0 +1,58 @@
+[
+  {
+    "ContainingType": "BigProject.Controllers.Controller_Authenic",
+    "Method": "Register",
+    "RelativePath": "api/Controller_Authenic/\u0110\u0103ng k\u00ED",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Username",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "FullName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "MaSV",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Class",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Birthdate",
+        "Type": "System.DateTime",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "PhoneNumber",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "UrlAvatar",
+        "Type": "Microsoft.AspNetCore.Http.IFormFile",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

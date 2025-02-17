@@ -3,44 +3,116 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\service\\implement\\service_authentic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\service\\implement\\service_authentic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Migrations\\20250217102037_ver3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BigProject\\Migrations\\20250217102037_ver3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\payload\\request\\request_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\payload\\request\\request_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\payload\\dto\\dto_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\payload\\dto\\dto_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\payload\\response\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\payload\\response\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\payload\\converter\\converter_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\payload\\converter\\converter_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\eventjoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\eventjoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\emailconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\emailconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\helper\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\helper\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\helper\\sendemali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\helper\\sendemali.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\service\\interface\\iservice_authentic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\service\\interface\\iservice_authentic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\payload\\response\\responseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\payload\\response\\responseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\payload\\response\\responsetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\payload\\response\\responsetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\controllers\\controller_authenic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\controllers\\controller_authenic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\datacontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\helper\\emailto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\helper\\emailto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\helper\\checkinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\helper\\checkinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\helper\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\helper\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\reporttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\reporttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Migrations\\20250217090913_ver2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BigProject\\Migrations\\20250217090913_ver2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\rewarddiscipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\rewarddiscipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\bigproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\bigproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\eventjoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\eventjoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\emailconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\emailconfirm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\bigproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -51,28 +123,8 @@
       "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\migrations\\20250215122344_ver1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\rewarddisciplinetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\rewarddisciplinetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\rewarddiscipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\rewarddiscipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\reporttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\reporttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\refreshtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\eventtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215121620_ver1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -100,10 +152,6 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215113335_ver1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\bigproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\bigproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215112617_ver1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -123,22 +171,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215105942_ver1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\entities\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\payload\\response\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\payload\\response\\responsebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\payload\\response\\responseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\payload\\response\\responseobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|c:\\users\\acer\\source\\repos\\nckh\\bigproject\\bigproject\\bigproject\\payload\\response\\responsetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC11B4D6-DB34-4F0A-B6E6-B1F127487AEC}|BigProject\\BigProject.csproj|solutionrelative:bigproject\\payload\\response\\responsetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -148,140 +180,271 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BigProject",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\BigProject.csproj",
-              "RelativeDocumentMoniker": "BigProject\\BigProject.csproj",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\BigProject.csproj",
-              "RelativeToolTip": "BigProject\\BigProject.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-17T08:09:13.43Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\appsettings.json",
-              "RelativeDocumentMoniker": "BigProject\\appsettings.json",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\appsettings.json",
-              "RelativeToolTip": "BigProject\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-17T08:07:13.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EventJoint.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EventJoint.cs",
-              "RelativeDocumentMoniker": "BigProject\\Entities\\EventJoint.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EventJoint.cs",
-              "RelativeToolTip": "BigProject\\Entities\\EventJoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.783Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "20250215122344_ver1.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Migrations\\20250215122344_ver1.cs",
-              "RelativeDocumentMoniker": "BigProject\\Migrations\\20250215122344_ver1.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Migrations\\20250215122344_ver1.cs",
-              "RelativeToolTip": "BigProject\\Migrations\\20250215122344_ver1.cs",
+              "Title": "20250217102037_ver3.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Migrations\\20250217102037_ver3.cs",
+              "RelativeDocumentMoniker": "BigProject\\Migrations\\20250217102037_ver3.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Migrations\\20250217102037_ver3.cs",
+              "RelativeToolTip": "BigProject\\Migrations\\20250217102037_ver3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.693Z",
+              "WhenOpened": "2025-02-17T10:20:37.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
+              "Title": "ResponseObject.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Response\\ResponseObject.cs",
+              "RelativeDocumentMoniker": "BigProject\\PayLoad\\Response\\ResponseObject.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Response\\ResponseObject.cs",
+              "RelativeToolTip": "BigProject\\PayLoad\\Response\\ResponseObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:07:13.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "CheckInput.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Helper\\CheckInput.cs",
               "RelativeDocumentMoniker": "BigProject\\Helper\\CheckInput.cs",
               "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Helper\\CheckInput.cs",
               "RelativeToolTip": "BigProject\\Helper\\CheckInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T08:07:13.856Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CloudinaryService.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Helper\\CloudinaryService.cs",
-              "RelativeDocumentMoniker": "BigProject\\Helper\\CloudinaryService.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Helper\\CloudinaryService.cs",
-              "RelativeToolTip": "BigProject\\Helper\\CloudinaryService.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAIwBAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.852Z",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\appsettings.json",
+              "RelativeDocumentMoniker": "BigProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\appsettings.json",
+              "RelativeToolTip": "BigProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-17T08:07:13.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SendEmali.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Helper\\SendEmali.cs",
-              "RelativeDocumentMoniker": "BigProject\\Helper\\SendEmali.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Helper\\SendEmali.cs",
-              "RelativeToolTip": "BigProject\\Helper\\SendEmali.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAZAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "BigProject\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\User.cs",
+              "RelativeToolTip": "BigProject\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:07:13.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Converter_Register.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Converter\\Converter_Register.cs",
+              "RelativeDocumentMoniker": "BigProject\\PayLoad\\Converter\\Converter_Register.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Converter\\Converter_Register.cs",
+              "RelativeToolTip": "BigProject\\PayLoad\\Converter\\Converter_Register.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:49:11.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DTO_Register.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\DTO\\DTO_Register.cs",
+              "RelativeDocumentMoniker": "BigProject\\PayLoad\\DTO\\DTO_Register.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\DTO\\DTO_Register.cs",
+              "RelativeToolTip": "BigProject\\PayLoad\\DTO\\DTO_Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:48:57.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service_Authentic.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Service\\Implement\\Service_Authentic.cs",
+              "RelativeDocumentMoniker": "BigProject\\Service\\Implement\\Service_Authentic.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Service\\Implement\\Service_Authentic.cs",
+              "RelativeToolTip": "BigProject\\Service\\Implement\\Service_Authentic.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAF8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:12:53.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ResponseBase.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Response\\ResponseBase.cs",
+              "RelativeDocumentMoniker": "BigProject\\PayLoad\\Response\\ResponseBase.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Response\\ResponseBase.cs",
+              "RelativeToolTip": "BigProject\\PayLoad\\Response\\ResponseBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:07:13.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Request_Register.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Request\\Request_Register.cs",
+              "RelativeDocumentMoniker": "BigProject\\PayLoad\\Request\\Request_Register.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Request\\Request_Register.cs",
+              "RelativeToolTip": "BigProject\\PayLoad\\Request\\Request_Register.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:45:43.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IService_Authentic.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Service\\Interface\\IService_Authentic.cs",
+              "RelativeDocumentMoniker": "BigProject\\Service\\Interface\\IService_Authentic.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Service\\Interface\\IService_Authentic.cs",
+              "RelativeToolTip": "BigProject\\Service\\Interface\\IService_Authentic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:11:53.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Program.cs",
+              "RelativeDocumentMoniker": "BigProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Program.cs",
+              "RelativeToolTip": "BigProject\\Program.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAqwDIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:07:13.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ResponseToken.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Response\\ResponseToken.cs",
+              "RelativeDocumentMoniker": "BigProject\\PayLoad\\Response\\ResponseToken.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Response\\ResponseToken.cs",
+              "RelativeToolTip": "BigProject\\PayLoad\\Response\\ResponseToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:07:13.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmailTo.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Helper\\EmailTo.cs",
+              "RelativeDocumentMoniker": "BigProject\\Helper\\EmailTo.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Helper\\EmailTo.cs",
+              "RelativeToolTip": "BigProject\\Helper\\EmailTo.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCEAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T08:07:13.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
+              "Title": "Controller_Authenic.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Controllers\\Controller_Authenic.cs",
+              "RelativeDocumentMoniker": "BigProject\\Controllers\\Controller_Authenic.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Controllers\\Controller_Authenic.cs",
+              "RelativeToolTip": "BigProject\\Controllers\\Controller_Authenic.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:52:39.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CloudinaryService.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Helper\\CloudinaryService.cs",
+              "RelativeDocumentMoniker": "BigProject\\Helper\\CloudinaryService.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Helper\\CloudinaryService.cs",
+              "RelativeToolTip": "BigProject\\Helper\\CloudinaryService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:07:13.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\DataContext\\AppDbContext.cs",
               "RelativeDocumentMoniker": "BigProject\\DataContext\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\DataContext\\AppDbContext.cs",
               "RelativeToolTip": "BigProject\\DataContext\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-17T08:07:13.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmailConfirm.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EmailConfirm.cs",
-              "RelativeDocumentMoniker": "BigProject\\Entities\\EmailConfirm.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EmailConfirm.cs",
-              "RelativeToolTip": "BigProject\\Entities\\EmailConfirm.cs",
+              "DocumentIndex": 17,
+              "Title": "RefreshToken.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\RefreshToken.cs",
+              "RelativeDocumentMoniker": "BigProject\\Entities\\RefreshToken.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\RefreshToken.cs",
+              "RelativeToolTip": "BigProject\\Entities\\RefreshToken.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.774Z",
+              "WhenOpened": "2025-02-17T08:07:13.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\Event.cs",
-              "RelativeDocumentMoniker": "BigProject\\Entities\\Event.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\Event.cs",
-              "RelativeToolTip": "BigProject\\Entities\\Event.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 18,
+              "Title": "ReportType.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\ReportType.cs",
+              "RelativeDocumentMoniker": "BigProject\\Entities\\ReportType.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\ReportType.cs",
+              "RelativeToolTip": "BigProject\\Entities\\ReportType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.743Z",
+              "WhenOpened": "2025-02-17T08:07:13.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 19,
+              "Title": "20250217090913_ver2.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Migrations\\20250217090913_ver2.cs",
+              "RelativeDocumentMoniker": "BigProject\\Migrations\\20250217090913_ver2.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Migrations\\20250217090913_ver2.cs",
+              "RelativeToolTip": "BigProject\\Migrations\\20250217090913_ver2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:09:13.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "Report.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\Report.cs",
               "RelativeDocumentMoniker": "BigProject\\Entities\\Report.cs",
@@ -294,33 +457,119 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "BigProject\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\User.cs",
-              "RelativeToolTip": "BigProject\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "BigProject\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\Event.cs",
+              "RelativeToolTip": "BigProject\\Entities\\Event.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.751Z",
+              "WhenOpened": "2025-02-17T08:07:13.743Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Program.cs",
-              "RelativeDocumentMoniker": "BigProject\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Program.cs",
-              "RelativeToolTip": "BigProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 22,
+              "Title": "EventType.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EventType.cs",
+              "RelativeDocumentMoniker": "BigProject\\Entities\\EventType.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EventType.cs",
+              "RelativeToolTip": "BigProject\\Entities\\EventType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.8Z",
+              "WhenOpened": "2025-02-17T08:07:13.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EntityBase.cs",
+              "RelativeDocumentMoniker": "BigProject\\Entities\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EntityBase.cs",
+              "RelativeToolTip": "BigProject\\Entities\\EntityBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:07:13.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RewardDiscipline.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\RewardDiscipline.cs",
+              "RelativeDocumentMoniker": "BigProject\\Entities\\RewardDiscipline.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\RewardDiscipline.cs",
+              "RelativeToolTip": "BigProject\\Entities\\RewardDiscipline.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:07:13.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmailConfirm.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EmailConfirm.cs",
+              "RelativeDocumentMoniker": "BigProject\\Entities\\EmailConfirm.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EmailConfirm.cs",
+              "RelativeToolTip": "BigProject\\Entities\\EmailConfirm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:07:13.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BigProject.http",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\BigProject.http",
+              "RelativeDocumentMoniker": "BigProject\\BigProject.http",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\BigProject.http",
+              "RelativeToolTip": "BigProject\\BigProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-17T08:07:13.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20250215122344_ver1.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Migrations\\20250215122344_ver1.cs",
+              "RelativeDocumentMoniker": "BigProject\\Migrations\\20250215122344_ver1.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Migrations\\20250215122344_ver1.cs",
+              "RelativeToolTip": "BigProject\\Migrations\\20250215122344_ver1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:07:13.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventJoint.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EventJoint.cs",
+              "RelativeDocumentMoniker": "BigProject\\Entities\\EventJoint.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EventJoint.cs",
+              "RelativeToolTip": "BigProject\\Entities\\EventJoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:07:13.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BigProject",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\BigProject.csproj",
+              "RelativeDocumentMoniker": "BigProject\\BigProject.csproj",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\BigProject.csproj",
+              "RelativeToolTip": "BigProject\\BigProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-17T08:09:13.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "RewardDisciplineType.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\RewardDisciplineType.cs",
               "RelativeDocumentMoniker": "BigProject\\Entities\\RewardDisciplineType.cs",
@@ -332,31 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RewardDiscipline.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\RewardDiscipline.cs",
-              "RelativeDocumentMoniker": "BigProject\\Entities\\RewardDiscipline.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\RewardDiscipline.cs",
-              "RelativeToolTip": "BigProject\\Entities\\RewardDiscipline.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RefreshToken.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\RefreshToken.cs",
-              "RelativeDocumentMoniker": "BigProject\\Entities\\RefreshToken.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\RefreshToken.cs",
-              "RelativeToolTip": "BigProject\\Entities\\RefreshToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 31,
               "Title": "20250215121620_ver1.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215121620_ver1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215121620_ver1.cs",
@@ -368,31 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ReportType.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\ReportType.cs",
-              "RelativeDocumentMoniker": "BigProject\\Entities\\ReportType.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\ReportType.cs",
-              "RelativeToolTip": "BigProject\\Entities\\ReportType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.748Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "EventType.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EventType.cs",
-              "RelativeDocumentMoniker": "BigProject\\Entities\\EventType.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EventType.cs",
-              "RelativeToolTip": "BigProject\\Entities\\EventType.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.745Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 32,
               "Title": "20250215121449_ver1.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215121449_ver1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215121449_ver1.cs",
@@ -404,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 33,
               "Title": "20250215115451_ver1.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215115451_ver1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215115451_ver1.cs",
@@ -416,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 34,
               "Title": "20250215115117_ver1.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215115117_ver1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215115117_ver1.cs",
@@ -428,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 35,
               "Title": "20250215115040_ver1.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215115040_ver1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215115040_ver1.cs",
@@ -440,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 36,
               "Title": "20250215114326_ver1.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215114326_ver1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215114326_ver1.cs",
@@ -452,7 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 37,
               "Title": "Role.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\Role.cs",
               "RelativeDocumentMoniker": "BigProject\\Entities\\Role.cs",
@@ -464,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 38,
               "Title": "20250215113335_ver1.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215113335_ver1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215113335_ver1.cs",
@@ -476,19 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "BigProject.http",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\BigProject.http",
-              "RelativeDocumentMoniker": "BigProject\\BigProject.http",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\BigProject.http",
-              "RelativeToolTip": "BigProject\\BigProject.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-17T08:07:13.802Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 39,
               "Title": "20250215112617_ver1.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215112617_ver1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215112617_ver1.cs",
@@ -500,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 40,
               "Title": "20250215112014_ver1.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215112014_ver1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215112014_ver1.cs",
@@ -512,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 41,
               "Title": "20250215111338_ver1.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215111338_ver1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215111338_ver1.cs",
@@ -524,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 42,
               "Title": "20250215111238_ver1.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215111238_ver1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215111238_ver1.cs",
@@ -536,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 43,
               "Title": "20250215110314_ver1.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215110314_ver1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215110314_ver1.cs",
@@ -548,7 +737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 44,
               "Title": "20250215110229_ver2.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215110229_ver2.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215110229_ver2.cs",
@@ -560,7 +749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 45,
               "Title": "20250215105942_ver1.cs",
               "DocumentMoniker": "C:\\Users\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215105942_ver1.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\dell\\source\\repos\\sql c# api\\BigProject\\BigProject\\Migrations\\20250215105942_ver1.cs",
@@ -569,54 +758,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T10:59:42.807Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "EntityBase.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EntityBase.cs",
-              "RelativeDocumentMoniker": "BigProject\\Entities\\EntityBase.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\Entities\\EntityBase.cs",
-              "RelativeToolTip": "BigProject\\Entities\\EntityBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "ResponseToken.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Response\\ResponseToken.cs",
-              "RelativeDocumentMoniker": "BigProject\\PayLoad\\Response\\ResponseToken.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Response\\ResponseToken.cs",
-              "RelativeToolTip": "BigProject\\PayLoad\\Response\\ResponseToken.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "ResponseObject.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Response\\ResponseObject.cs",
-              "RelativeDocumentMoniker": "BigProject\\PayLoad\\Response\\ResponseObject.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Response\\ResponseObject.cs",
-              "RelativeToolTip": "BigProject\\PayLoad\\Response\\ResponseObject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "ResponseBase.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Response\\ResponseBase.cs",
-              "RelativeDocumentMoniker": "BigProject\\PayLoad\\Response\\ResponseBase.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\PayLoad\\Response\\ResponseBase.cs",
-              "RelativeToolTip": "BigProject\\PayLoad\\Response\\ResponseBase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-17T08:07:13.841Z"
             }
           ]
         }
