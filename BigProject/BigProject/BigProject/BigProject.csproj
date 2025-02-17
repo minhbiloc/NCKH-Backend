@@ -27,12 +27,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <Folder Include="Controllers\NewFolder\" />
     <Folder Include="PayLoad\Converter\" />
     <Folder Include="PayLoad\DTO\" />
     <Folder Include="PayLoad\Request\" />
-    <Folder Include="Service\Implement\" />
-    <Folder Include="Service\Interface\" />
   </ItemGroup>
 
 </Project>

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\BigProject.csproj": {}
+    "C:\\Users\\dell\\source\\repos\\sql c# api\\NCKH-Backend\\BigProject\\BigProject\\BigProject\\BigProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\BigProject.csproj": {
+    "C:\\Users\\dell\\source\\repos\\sql c# api\\NCKH-Backend\\BigProject\\BigProject\\BigProject\\BigProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\BigProject.csproj",
+        "projectUniqueName": "C:\\Users\\dell\\source\\repos\\sql c# api\\NCKH-Backend\\BigProject\\BigProject\\BigProject\\BigProject.csproj",
         "projectName": "BigProject",
-        "projectPath": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\BigProject.csproj",
-        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\source\\repos\\NCKH\\BigProject\\BigProject\\BigProject\\obj\\",
+        "projectPath": "C:\\Users\\dell\\source\\repos\\sql c# api\\NCKH-Backend\\BigProject\\BigProject\\BigProject\\BigProject.csproj",
+        "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dell\\source\\repos\\sql c# api\\NCKH-Backend\\BigProject\\BigProject\\BigProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -35,11 +34,6 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -110,7 +104,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

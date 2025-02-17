@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BigProject",
+    "\\BigProject\\BigProject",
+    "\\BigProject\\BigProject\\BigProject",
+    "\\BigProject\\BigProject\\BigProject\\Entities",
+    "\\BigProject\\BigProject\\BigProject\\Migrations"
+  ],
+  "SelectedNode": "\\BigProject\\BigProject\\BigProject\\Entities\\EmailConfirm.cs",
+  "PreviewInSolutionExplorer": false
+}
